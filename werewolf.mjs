@@ -50,8 +50,8 @@ let description = {
     "Loup-garou Blanc":
         "Vous faites partie des Loups-garou mais vous devez gagner solo ! Vous choisissez aussi avec les autres Loup qui tuer la nuit. Vous pouvez parler entre loup via le -chatlg dans mes mp.",
 
-    /*"Sorcière":
-        "Vous faites partie des villageois et devez gagner avec eux. Vous avec une potion de soin et de mort. Vous pouvez les utilisers une seul fois. Si une personne meurt pendant la nuit vous êtes alerté.",*/
+    "Sorcière":
+        "Vous faites partie des villageois et devez gagner avec eux. Vous avec une potion de soin et de mort. Vous pouvez les utilisers une seul fois. Si une personne meurt pendant la nuit vous êtes alerté.",
 
     "Voyante":
         "Vous faites partie des Villageois et devez gagner avec eux. Chaque soir vous pouvez espionner le role d'un joueur.",
