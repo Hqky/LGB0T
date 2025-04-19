@@ -2,20 +2,20 @@
 
 Minecraft Mineflayer Bot to play "Loups-Garous de Thiercelieux" or "The Werewolves of Miller's Hollow." on minecraft server named DeryCube.
 
-> **The all scripts is in French !**
+> **The all script is in French and will be translated in English.**
 
 ## Roles:
 
-| Name     | Available |
-| -------- | --------- |
-| Loup-Garou  | ✔ |
-| Loup-Garou Blanc | ✔ |
-| Villageois | ✔ |
-| Sorcière | ✘ |
-| Voyante | ✔ |
-| Chasseur | ✔ |
-| Assassin | ✔ |
-| Cupidon | ✘ |
+| Name             | Available |
+|------------------|----------|
+| Loup-Garou       | ✔        |
+| Loup-Garou Blanc | ✔        |
+| Villageois       | ✔        |
+| Sorcière         | ✔        |
+| Voyante          | ✔        |
+| Chasseur         | ✔        |
+| Assassin         | ✔        |
+| Cupidon          | ✘        |
 
 ## PatchNote
 
